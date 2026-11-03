@@ -9,13 +9,13 @@ This repository is dedicated to the openly-accessible 7 Tesla diffusion MRI data
 > The dataset will be publicly disseminated via OpenNeuro upon publication.
 > In case of questions, please contact me via the e-mail below.
 
-**Acquisition and sequence design**: *BLINDED*
-**Contact**: *BLINDED*
+**Acquisition and sequence design**: *BLINDED*  
+**Contact**: *BLINDED*  
 
 ## Data overview
 **Field strength**: 7T  
-**Scanner**: *BLINDED*
-**Center**: *BLINDED*
+**Scanner**: *BLINDED*  
+**Center**: *BLINDED*  
 
 ## Sequence parameters
 | **Parameter** | **Value** |
