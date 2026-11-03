@@ -2,7 +2,7 @@
 ![ Manuscript status ](https://img.shields.io/badge/Manuscript%20status-Under%20review-orange)
 ![ Dataset availability ](https://img.shields.io/badge/Data%20availability-Reviewers%20only-red)
 
-This repository is dedicated to the openly-accessible 7 Tesla diffusion MRI dataset, accompanying our review manuscript on human cortical microstructure imaging. Full pipelines and dataset files, along with OpenNeuro data upload, will be made available upon manuscript acceptance.
+This repository is dedicated to the openly-accessible 7 Tesla diffusion MRI dataset, accompanying our review manuscript on human cortical microstructure imaging.
 
 > [!IMPORTANT]  
 > The dataset remains accessible only to the reviewers throughout the review process.
