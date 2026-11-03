@@ -1,6 +1,6 @@
 # Human Cortical Microstructure Imaging with Diffusion MRI at 7 Tesla: Methods, Challenges and Future Directions
 ![ Manuscript status ](https://img.shields.io/badge/Manuscript%20status-Under%20review-orange)
-![ Dataset availability ](https://img.shields.io/badge/Data%20availability-Reviewers%20only-red)
+![ Data availability ](https://img.shields.io/badge/Data%20availability-Reviewers%20only-red)
 
 This repository is dedicated to the openly-accessible 7 Tesla diffusion MRI dataset, accompanying our review manuscript on human cortical microstructure imaging.
 
