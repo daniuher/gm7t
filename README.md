@@ -16,8 +16,18 @@ Full pipelines and dataset files, along with OpenNeuro data upload, will be made
 
 ## Data overview
 **Field strength**: 7T  
-**Scanner**: Siemens 7T Terra.X Impulse Edition (G<sub>max</sub>=200mT/m; S<sub>max</sub>=900T/m/s)  
+**Scanner**: Siemens 7T MAGNETOM Terra.X Impulse Edition (G<sub>max</sub>=200mT/m; S<sub>max</sub>=900T/m/s), Siemens Healthineers, Erlangen, Germany  
 **Center**: Otto von Guericke University Magdeburg, Department of Biomedical Magnetic Resonance, Magdeburg, Germany  
+
+## Sequence parameters
+| Sequence | 2D single-shot EPI |
+| Voxel size (mm) | 0.9 isotropic |
+| Δ (ms) | 24.14 |
+| δ (ms) | 10.42 |
+| TE (ms) | 48 |
+| TR (ms) | 5500 |
+| Multiband factor | 2 |
+| Partial Fourier | 0.75 |
 
 ### Q-space coverage
 | $b$-value ($\text{s/mm}^2$) | Number of Directions |
@@ -32,7 +42,7 @@ Full pipelines and dataset files, along with OpenNeuro data upload, will be made
 | 4000 | 60 |
 | 5000 | 60 |
 | 6000 | 60 |
-| ---- | ---- |
+| :--- | :---: |
 | **Total** | **460** |
 
 ### Overview of preprocessed data
