@@ -44,7 +44,6 @@ This repository is dedicated to the openly-accessible 7 Tesla diffusion MRI data
 | 4000 | 60 |
 | 5000 | 60 |
 | 6000 | 60 |
-| :--- | :---: |
 | **Total** | **460** |
 
 ### Overview of preprocessed data
