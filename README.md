@@ -37,16 +37,16 @@ Full pipelines and dataset files, along with OpenNeuro data upload, will be made
 </picture>
 
 ## Preprocessing
-Utilized neuroimaging tools: MRtrix3^1^, FSL^2^, Freesurfer^3^ (Neurodesk^4^ Docker container, v8.1.0)  
+Utilized neuroimaging tools: MRtrix3<sup>1</sup>, FSL<sup>2</sup>, Freesurfer<sup>3</sup> (Neurodesk<sup>4</sup> Docker container, v8.1.0)  
 
-1. Complex denoising via NORDIC^5^
-2. Degibbs via subvoxel shift^1,6^
-3. Susceptibility distortion correction via TOPUP^2,7^
-4. Eddy and motion correction via eddy^2,8^
-5. Gradient non-linearity correction via gradunwarp^9^
-6. Bias correction via N4^1,10^
+1. Complex denoising via NORDIC<sup>5</sup>
+2. Degibbs via subvoxel shift<sup>1,6</sup>
+3. Susceptibility distortion correction via TOPUP<sup>2,7</sup>
+4. Eddy and motion correction via eddy<sup>2,8</sup>
+5. Gradient non-linearity correction via gradunwarp<sup>9</sup>
+6. Bias correction via N4<sup>1,10</sup>
 
-Additional steps included brain extraction via *mri_synthstrip* [11] and anatomical segmentation plus cortical parcellation via *mri_synthseg*[12,13].
+Additional steps included brain extraction via *mri_synthstrip*<sup>11</sup> and anatomical segmentation plus cortical parcellation via *mri_synthseg*<sup>12,13</sup>.
 Steps such as signal drift correction have been so far omitted, but will likely be added later on. 
 
 ## References
