@@ -9,3 +9,8 @@ Full pipelines and dataset files, along with OpenNeuro data upload, will be made
 ## Data overview
 ![Powder average overview](img/powder_average_overview_dpi100.png)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/powder_average_overview_dpi100.png">
+  <source media="(prefers-color-scheme: light)" srcset="img/powder_average_overview_dpi100.png">
+  <img alt="Powder average overview" src="img/powder_average_overview_dpi100.png" width="100%">
+</picture>
