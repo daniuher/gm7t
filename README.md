@@ -1,10 +1,7 @@
 # Human Cortical Microstructure Imaging with Diffusion MRI at 7 Tesla: Methods, Challenges and Future Directions
+![Manuscript status](https://img.shields.io/badge/Manuscript%20status-Under%20review-orange)
 
-Manuscript status: _submitted_ (Under review)
-
-This repository contains additional information regarding the open dataset accompanying the manuscript DOI: ...
-
-Full pipelines and dataset files, along with OpenNeuro data upload, will be made available upon manuscript acceptance.
+This repository is dedicated to the openly-accessible 7 Tesla diffusion MRI dataset, accompanying our review manuscript on human cortical microstructure imaging. Full pipelines and dataset files, along with OpenNeuro data upload, will be made available upon manuscript acceptance.
 
 > [!IMPORTANT]  
 > The dataset remains accessible only to the reviewers throughout the review process.
@@ -66,8 +63,7 @@ Utilized neuroimaging tools: MRtrix3<sup>1</sup>, FSL<sup>2</sup>, Freesurfer<su
 5. Gradient non-linearity correction via gradunwarp<sup>9</sup>
 6. Bias correction via N4<sup>1,10</sup>
 
-Additional steps included brain extraction via *mri_synthstrip*<sup>11</sup> and anatomical segmentation plus cortical parcellation via *mri_synthseg*<sup>12,13</sup>.
-Steps such as signal drift correction have been so far omitted, but will likely be added later on. 
+Additional steps included brain extraction via *mri_synthstrip*<sup>11</sup> and anatomical segmentation plus cortical parcellation via *mri_synthseg*<sup>12,13</sup>. Signal drift correction has been so far omitted, but will likely be added later on upon additional testing. 
 
 ## References
 [1] Tournier JD, Smith R, Raffelt D, Tabbara R, Dhollander T, Pietsch M, Christiaens D, Jeurissen B, Yeh CH, Connelly A. MRtrix3: A fast, flexible and open software framework for medical image processing and visualisation. Neuroimage. 2019 Nov 15;202:116137. doi: 10.1016/j.neuroimage.2019.116137. Epub 2019 Aug 29. PMID: 31473352.   <br><br>
