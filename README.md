@@ -64,7 +64,7 @@ Utilized neuroimaging tools: MRtrix3<sup>1</sup>, FSL<sup>2</sup>, Freesurfer<su
 5. Gradient non-linearity correction via gradunwarp<sup>9</sup>
 6. Bias correction via N4<sup>1,10</sup>
 
-Additional steps included brain extraction via *mri_synthstrip*<sup>11</sup> and anatomical segmentation plus cortical parcellation via *mri_synthseg*<sup>12,13</sup>. Signal drift correction has been so far omitted, but will likely be added later on upon additional testing. 
+Additional steps included brain extraction via *mri_synthstrip*<sup>11</sup> and anatomical segmentation plus cortical parcellation via *mri_synthseg*<sup>12,13</sup>.
 
 ## References
 [1] Tournier JD, Smith R, Raffelt D, Tabbara R, Dhollander T, Pietsch M, Christiaens D, Jeurissen B, Yeh CH, Connelly A. MRtrix3: A fast, flexible and open software framework for medical image processing and visualisation. Neuroimage. 2019 Nov 15;202:116137. doi: 10.1016/j.neuroimage.2019.116137. Epub 2019 Aug 29. PMID: 31473352.   <br><br>
