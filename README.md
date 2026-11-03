@@ -20,6 +20,8 @@ Full pipelines and dataset files, along with OpenNeuro data upload, will be made
 **Center**: Otto von Guericke University Magdeburg, Department of Biomedical Magnetic Resonance, Magdeburg, Germany  
 
 ## Sequence parameters
+| **Parameter** | **Value** |
+| :--- | :---: |
 | Sequence | 2D single-shot EPI |
 | Voxel size (mm) | 0.9 isotropic |
 | Δ (ms) | 24.14 |
@@ -28,6 +30,8 @@ Full pipelines and dataset files, along with OpenNeuro data upload, will be made
 | TR (ms) | 5500 |
 | Multiband factor | 2 |
 | Partial Fourier | 0.75 |
+
+*Complete parameter set is, as per usual, within the associated .json file in the acquired data folder*.
 
 ### Q-space coverage
 | $b$-value ($\text{s/mm}^2$) | Number of Directions |
