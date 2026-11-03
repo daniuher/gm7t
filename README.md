@@ -15,6 +15,11 @@ Full pipelines and dataset files, along with OpenNeuro data upload, will be made
 **Contact**: daniel dot uher at ovgu dot de  
 
 ## Data overview
+**Field strength**: 7T  
+**Scanner**: Siemens 7T Terra.X Impulse Edition (G<sub>max</sub>=200mT/m; S<sub>max</sub>=900T/m/s)  
+**Center**: Otto von Guericke University Magdeburg, Department of Biomedical Magnetic Resonance, Magdeburg, Germany  
+
+### Q-space coverage
 | $b$-value ($\text{s/mm}^2$) | Number of Directions |
 | :--- | :---: |
 | 0 | 20 |
@@ -28,8 +33,9 @@ Full pipelines and dataset files, along with OpenNeuro data upload, will be made
 | 5000 | 60 |
 | 6000 | 60 |
 | ---- | ---- |
-| **Total** | **400** |
+| **Total** | **460** |
 
+### Overview of preprocessed data
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/powder_average_overview_dpi100.png">
   <source media="(prefers-color-scheme: light)" srcset="img/powder_average_overview_dpi100.png">
